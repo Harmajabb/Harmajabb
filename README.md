@@ -17,7 +17,7 @@
 
 - 👨‍💻 All details about my searching of internship are available **[here](https://leafrancois.com/)**
 
-- 📄 Know about my experiences **[Click here](https://leafrancois.com/wp-content/uploads/2025/08/Lea-Francois-Webdev_design.pdf)**
+- 📄 Know about my experiences **[Click here](https://leafrancois.com/wp-content/uploads/2025/10/Lea_Francois_Alternance_Concepteur_Dev_Application_Devops.pdf)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
