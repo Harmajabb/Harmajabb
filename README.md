@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=240&text=Accessible%20by%20Design.&fontColor=F8F3D4&color=0:282248,100:0A0A12" alt="Accessible by Design banner">
+</p>
+
 <details open>
 <summary>🇬🇧 <strong>English Version</strong></summary>
 
@@ -6,9 +10,7 @@
 
 React • TypeScript • Design Systems • Inclusive UI
 
-I design and code accessible interfaces -  
-from structured UX foundations and scalable UI systems  
-to production-ready React components.
+I design and code accessible interfaces - from structured UX foundations and scalable UI systems to production-ready React components.
 
 *Design by Léa • Code by Léa • Accessibility for All*
 
@@ -24,8 +26,7 @@ My background blends:
 - Full-stack web development bootcamp  
 - Lived experience as a deaf designer: strong inclusion mindset  
 
-I bring a balanced combination of product thinking, design clarity,  
-and technical execution.
+I bring a balanced combination of product thinking, design clarity and technical execution.
 
 **Available for full-time roles starting February 23, 2026.**
 
@@ -92,9 +93,7 @@ GitHub · VSCode · Lighthouse · Notion · Wave
 
 React • TypeScript • Design Systems • UI Accessible
 
-Je conçois et développe des interfaces accessibles -  
-des fondations UX structurées et systèmes UI scalables  
-jusqu’aux composants React prêts pour la production.
+Je conçois et développe des interfaces accessibles - des fondations UX structurées et systèmes UI scalables jusqu’aux composants React prêts pour la production.
 
 *Design by Léa • Code by Léa • Accessibility for All*
 
@@ -102,13 +101,13 @@ jusqu’aux composants React prêts pour la production.
 
 ## À propos
 
-Je suis une **UX/UI Designer et Développeuse Front-End React** hybride, spécialisée en **accessibilité**, **design systems**, et **développement orienté composants**.
+Je suis une **UX/UI Designer et Développeuse Front-End React** hybride, spécialisée en **accessibilité**, **design systems** et **développement orienté composants**.
 
 Mon parcours réunit:
 - Un Master en management de projet.  
 - Deux ans d'expérience UX chez TotalEnergies.  
 - Un bootcamp en développement web full-stack.  
-- Mon expérience personnelle en tant que designer sourde → forte sensibilité à l’inclusion.  
+- Mon expérience personnelle en tant que designer sourde: forte sensibilité à l’inclusion.  
 
 J’allie réflexion produit, cohérence visuelle et exécution technique.
 
