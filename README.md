@@ -49,9 +49,8 @@ I bring a balanced combination of product thinking, design clarity and technical
 | Project | Description |
 |---------|-------------|
 | **[Portfolio v2](https://leafrancois.com/)** | Accessible, bilingual, dark/light theme, performant. |
-| **A11Y React Component Library (WIP)** | Accessible UI primitives: Modal, Accordion, Tabs, Alert, Toast... |
-| **Design System Starter** | Foundations, tokens, spacing, color, typography, components. |
-| **UI Micro-Components** | Accessible toggles, accordions, dropdown intros, rating widgets. |
+| **[A11Y DS Generator](https://a11y-ds-generator.vercel.app/)** | Design System generator based in A11Y First... |
+| **(to come) LinkedIn Accessibility Checker** | Analyze LinkedIn post accessibility |
 
 ---
 
@@ -67,7 +66,7 @@ React · TypeScript · JavaScript · HTML · CSS
 WCAG 2.2 · ARIA · Keyboard UX · Screen Readers  
 
 ### Tools  
-GitHub · VSCode · Lighthouse · Notion · Wave  
+GitHub · VSCode · Lighthouse · Jira · Wave  
 
 ---
 
@@ -132,9 +131,8 @@ J’allie réflexion produit, cohérence visuelle et exécution technique.
 | Projet | Description |
 |--------|-------------|
 | **[Portfolio v2](https://leafrancois.com/)** | Accessible, bilingue, performant, thème dark/light. |
-| **Bibliothèque de composants React accessibles (WIP)** | Modale, Accordéon, Onglets, Alertes, Toasts... |
-| **Design System Starter** | Fondations, tokens, espacement, couleurs, typographies, composants. |
-| **Micro-composants UI** | Toggles accessibles, accordéons, dropdown intro, systèmes de notation. |
+| **[A11Y DS Generateur](https://a11y-ds-generator.vercel.app/)** | Générateur de design system basé sur le A11Y |
+| **(à venir) Vérificateur LinkedIn Accessibilé** | Analyse l'accessibilité des post linkedin |
 
 ---
 
@@ -150,7 +148,7 @@ React · TypeScript · JavaScript · HTML · CSS
 WCAG 2.2 · ARIA · Navigation clavier · Lecteurs d’écran  
 
 ### Outils  
-GitHub · VSCode · Lighthouse · Notion · Wave  
+GitHub · VSCode · Lighthouse · Jira · Wave  
 
 ---
 
